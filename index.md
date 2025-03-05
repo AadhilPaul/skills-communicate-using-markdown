@@ -13,7 +13,7 @@ var myVar = "Do u like my hat?";
 
 
 > [!TIP]
-> Feed Dogo to make him happy:dog:
+> Feed Dogo to make him happy :dog:
 
 > [!IMPORTANT]
 > His Favourite are biscuits
